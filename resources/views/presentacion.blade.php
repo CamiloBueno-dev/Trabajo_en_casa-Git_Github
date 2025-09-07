@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,14 +11,16 @@
             background-color: #F7F4E8;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
+
         .card {
             background-color: #DAF3EA;
             border: none;
             border-radius: 20px;
-            box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
             max-width: 500px;
             margin: auto;
         }
+
         .profile-pic {
             border-radius: 50%;
             border: 5px solid #85E6C0;
@@ -27,19 +30,23 @@
             margin: 20px auto 10px auto;
             display: block;
         }
+
         .card-body {
             text-align: center;
             color: #0B0B0D;
         }
+
         .card-title {
             font-size: 1.8rem;
             font-weight: bold;
             color: #6BB39B;
         }
+
         .card-subtitle {
             font-size: 1rem;
             color: #6BB39B;
         }
+
         .bio-section {
             margin-top: 20px;
             text-align: left;
@@ -47,15 +54,18 @@
             background-color: #F7F4E8;
             border-radius: 12px;
         }
+
         .bio-section h6 {
             color: #6BB39B;
             font-weight: bold;
         }
+
         .bio-section p {
             margin: 0;
         }
     </style>
 </head>
+
 <body>
 
     <div class="container d-flex vh-100">
@@ -66,7 +76,7 @@
                 <h6 class="card-subtitle mb-2">Desarrollador / Estudiante</h6>
                 <p class="mt-3">¡Bienvenido a mi página web!</p>
 
-                <!-- Nueva sección de presentación -->
+                <!-- Presentacion / Procedencia -->
                 <div class="bio-section text-start">
                     <h6>Sobre mí</h6>
                     <p><strong>Lugar de procedencia:</strong> Bucaramanga, Colombia</p>
@@ -75,10 +85,19 @@
                     <p><strong>Madre:</strong> Claudia Patricia Rey Rondon</p>
                     <p><strong>Hermanos?</strong> Hijo único</p>
                 </div>
+
+                <!-- Narración de mi niñez -->
+                <div class="mt-4">
+                    <a href="{{ route('niñez') }}" class="btn btn-success"
+                        style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px;">
+                        Mi Niñez
+                    </a>
+                </div>
+
             </div>
         </div>
     </div>
 
 </body>
-</html>
 
+</html>
