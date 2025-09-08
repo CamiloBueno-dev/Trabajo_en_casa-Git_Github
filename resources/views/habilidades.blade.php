@@ -88,8 +88,18 @@
             <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_200_200/company-logo_200_200/0/1635171226992/mongodbinc_logo?e=1759968000&v=beta&t=EBDiLHJTAAFo6JF2phmLf8TN_2EsaNioQBpIaZ-yZAg" alt="MongoDB">
             <div class="contact-info">
                 <h2>Introduction to MongoDB</h32>
-                <h3>Curso básico de uso de mongoDB</h3>
+                <h3>Conocimientos fundamentales sobre el uso y funcionamiento de bases de datos NoSQL.</h3>
                 <a href="https://learn.mongodb.com/c/P46GDnlFTGmlYZUoWQ_ljA" target="_blank">https://learn.mongodb.com/c/P46GDnlFTGmlYZUoWQ_ljA</a>
+            </div>
+        </div>
+
+        <!-- Habilidad 3 -->
+        <div class="contact-card">
+            <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_200_200/company-logo_200_200/0/1635171226992/mongodbinc_logo?e=1759968000&v=beta&t=EBDiLHJTAAFo6JF2phmLf8TN_2EsaNioQBpIaZ-yZAg" alt="MongoDB">
+            <div class="contact-info">
+                <h2>MongoDB Data Modeling Path</h32>
+                <h3>Habilidades en el diseño de modelos de datos optimizados para MongoDB.</h3>
+                <a href="https://learn.mongodb.com/c/EczK6DPKQm2ivMkiBtN5qQ" target="_blank">https://learn.mongodb.com/c/EczK6DPKQm2ivMkiBtN5qQ</a>
             </div>
         </div>
 
