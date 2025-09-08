@@ -82,6 +82,17 @@
                 <a href="https://www.credly.com/badges/e98fcde2-4f49-4769-9da6-43047fb4c0de" target="_blank">https://www.credly.com/badges/e98fcde2-4f49-4769-9da6-43047fb4c0de</a>
             </div>
         </div>
+
+        <!-- Habilidad 2 -->
+        <div class="contact-card">
+            <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_200_200/company-logo_200_200/0/1635171226992/mongodbinc_logo?e=1759968000&v=beta&t=EBDiLHJTAAFo6JF2phmLf8TN_2EsaNioQBpIaZ-yZAg" alt="MongoDB">
+            <div class="contact-info">
+                <h2>Introduction to MongoDB</h32>
+                <h3>Curso básico de uso de mongoDB</h3>
+                <a href="https://learn.mongodb.com/c/P46GDnlFTGmlYZUoWQ_ljA" target="_blank">https://learn.mongodb.com/c/P46GDnlFTGmlYZUoWQ_ljA</a>
+            </div>
+        </div>
+
     </div>
 </body>
 </html>
