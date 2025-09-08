@@ -25,3 +25,7 @@ Route::get('/futuro', function () {
 Route::get('/experiencia-laboral', function () {
     return view('experiencia-laboral');
 })->name('experiencia-laboral');
+
+Route::get('/habilidades', function () {
+    return view('habilidades');
+})->name('habilidades');
