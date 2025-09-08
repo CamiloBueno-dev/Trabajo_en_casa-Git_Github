@@ -115,6 +115,13 @@
 
                 </div>
 
+                <div class="mt-4 d-flex justify-content-center gap-3">
+                    <!-- Academia -->
+                    <a href="{{ route('academia') }}" class="btn btn-success"
+                        style="background-color: #000000; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
+                        Academia
+                    </a>
+                </div>
 
             </div>
         </div>

@@ -21,3 +21,7 @@ Route::get('/actualidad', function () {
 Route::get('/futuro', function () {
     return view('futuro');
 })->name('futuro');
+
+Route::get('/academia', function () {
+    return view('academia');
+})->name('academia');
