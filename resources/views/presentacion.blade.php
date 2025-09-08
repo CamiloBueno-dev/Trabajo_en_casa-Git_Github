@@ -86,13 +86,20 @@
                     <p><strong>Hermanos?</strong> Hijo único</p>
                 </div>
 
-                <!-- Narración de mi niñez -->
-                <div class="mt-4">
+                <div class="mt-4 d-flex justify-content-center gap-3">
+                    <!-- Narración de mi Niñez -->
                     <a href="{{ route('niñez') }}" class="btn btn-success"
                         style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px;">
                         Mi Niñez
                     </a>
+
+                    <!-- Narración de mi Adolescencia -->
+                    <a href="{{ route('adolescencia') }}" class="btn btn-success"
+                        style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px;">
+                        Mi Adolescencia
+                    </a>
                 </div>
+
 
             </div>
         </div>
