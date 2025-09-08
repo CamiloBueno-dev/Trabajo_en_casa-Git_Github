@@ -83,6 +83,15 @@
             </div>
         </div>
 
+        <!-- Tarjeta LinkedIn -->
+        <div class="contact-card">
+            <img src="https://icons.veryicon.com/png/Internet%20%26%20Web/Basic%20Round%20Social/linkedin.png" alt="LinkedIn Logo">
+            <div class="contact-info">
+                <h3>Mi LinkedIn</h3>
+                <a href="https://www.linkedin.com/in/camilo-andrés-bueno-rey-90861336a" target="_blank">www.linkedin.com/in/camilo-andrés-bueno-rey-90861336a</a>
+            </div>
+        </div>
+
     </div>
 </body>
 </html>
