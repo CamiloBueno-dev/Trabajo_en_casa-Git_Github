@@ -17,7 +17,7 @@
             border: none;
             border-radius: 20px;
             box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
-            max-width: 500px;
+            max-width: 600px;
             margin: auto;
         }
 
@@ -104,6 +104,12 @@
                     <a href="{{ route('actualidad') }}" class="btn btn-success"
                         style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
                         Actualidad
+                    </a>
+
+                    <!-- Mis metas y aspiraciones -->
+                    <a href="{{ route('futuro') }}" class="btn btn-success"
+                        style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
+                        Futuro
                     </a>
 
 
