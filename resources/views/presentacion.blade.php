@@ -111,10 +111,15 @@
                         style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
                         Futuro
                     </a>
-
-
                 </div>
 
+                <div class="mt-4 d-flex justify-content-center gap-3">
+                    <!-- Experiencia laboral -->
+                    <a href="{{ route('experiencia-laboral') }}" class="btn btn-success"
+                        style="background-color: #000000; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
+                        Experiencia laboral
+                    </a>
+                </div>
 
             </div>
         </div>
