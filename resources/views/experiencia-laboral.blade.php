@@ -74,7 +74,15 @@
         <h2>Experiencia Laboral</h2>
         <p>Aún no he tenido experiencia laboral formal como ingeniero de sistemas. 🚀</p>
 
+        <!-- Tarjeta GitHub -->
+        <div class="contact-card">
+            <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub Logo">
+            <div class="contact-info">
+                <h3>Mi GitHub</h3>
+                <a href="https://github.com/CamiloBueno-dev" target="_blank">https://github.com/CamiloBueno-dev</a>
+            </div>
         </div>
+
     </div>
 </body>
 </html>
