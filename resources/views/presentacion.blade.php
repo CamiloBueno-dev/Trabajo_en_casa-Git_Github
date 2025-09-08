@@ -118,11 +118,18 @@
                     <a href="{{ route('experiencia-laboral') }}" class="btn btn-success"
                         style="background-color: #000000; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
                         Experiencia laboral
+                    </a>
 
                     <!-- Habilidades -->
                     <a href="{{ route('habilidades') }}" class="btn btn-success"
                         style="background-color: #000000; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
                         Habilidades
+                    </a>
+                    
+                    <!-- Academia -->
+                    <a href="{{ route('academia') }}" class="btn btn-success"
+                        style="background-color: #000000; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
+                        Academia
                     </a>
                 </div>
 

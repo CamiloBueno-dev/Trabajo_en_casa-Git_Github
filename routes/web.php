@@ -29,3 +29,7 @@ Route::get('/experiencia-laboral', function () {
 Route::get('/habilidades', function () {
     return view('habilidades');
 })->name('habilidades');
+
+Route::get('/academia', function () {
+    return view('academia');
+})->name('academia');
