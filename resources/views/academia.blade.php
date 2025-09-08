@@ -90,6 +90,20 @@
             </div>
         </div>
 
+        <!-- Universidad -->
+        <div class="contact-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm7hzhCG-M6xpRWhY7dr0poid_mB6i1MZNEg&s"
+                alt="unab">
+            <div class="contact-info">
+                <h3>Universidad Autonoma de Bucaramanga</h3>
+                <p><strong>Inicio formación:</strong> 2023 </p>
+                <p><strong>Fin formación:</strong> 2027 </p>
+                <p>La Universidad Autónoma de Bucaramanga (UNAB) es una institución de educación superior reconocida por
+                    su calidad académica, innovación y compromiso con la formación de profesionales capaces de aportar
+                    al desarrollo social y tecnológico.</p>
+            </div>
+        </div>
+
     </div>
 </body>
 
