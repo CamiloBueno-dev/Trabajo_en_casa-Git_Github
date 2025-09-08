@@ -98,6 +98,15 @@
                         style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px;">
                         Mi Adolescencia
                     </a>
+
+
+                    <!-- A lo que me dedico Actualmente -->
+                    <a href="{{ route('actualidad') }}" class="btn btn-success"
+                        style="background-color: #6BB39B; border: none; border-radius: 12px; padding: 10px 20px; color: #F7F4E8;">
+                        Actualidad
+                    </a>
+
+
                 </div>
 
 
